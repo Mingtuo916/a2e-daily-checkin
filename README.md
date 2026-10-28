@@ -24,8 +24,12 @@
 ### 方式一：一键安装（推荐）
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/)（或 Violentmonkey 等兼容 `GM_*` API 的脚本管理器）。
-2. 点击安装：**[a2e-daily-checkin.user.js](https://raw.githubusercontent.com/Mingtuo916/a2e-daily-checkin/main/a2e-daily-checkin.user.js)**。
+2. 任选一个安装链接（raw 在部分网络不可用，可用 GitHub Pages 备用）：
+   - **GitHub raw**：<https://raw.githubusercontent.com/Mingtuo916/a2e-daily-checkin/main/a2e-daily-checkin.user.js>
+   - **GitHub Pages（备用）**：<https://mingtuo916.github.io/a2e-daily-checkin/a2e-daily-checkin.user.js>
 3. Tampermonkey 弹出安装页后确认安装。
+
+> 两个链接都打不开时，用下面的「方式二」从 Release 下载。
 
 ### 方式二：手动安装
 
