@@ -1,0 +1,11 @@
+# 私密文件：账号导入清单、Token 等，永远不要提交
+A2E-账号导入清单*
+*账号导入清单*
+*.token
+.github-token
+.env
+
+# 依赖与系统文件
+node_modules/
+.DS_Store
+Thumbs.db
